@@ -1,5 +1,5 @@
 ### **Problem Statement**
-Prove that every projective collineation is of the form $\tilde{A}$ for some $A\in GL(3)$.
+Prove that every projective collineation is of the form $\bar{A}$ for some $A\in GL(3)$.
 
 ---
 
